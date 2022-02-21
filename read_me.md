@@ -22,5 +22,6 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 *[Projects 5. ____________________.]().
 
-[## My resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
-[## My resume link(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
+[## Resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
+
+[## Ссылка на резюме(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
