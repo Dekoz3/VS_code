@@ -1,1 +1,0 @@
-From the [SkiilFactory Data Science course]()
