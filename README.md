@@ -25,3 +25,5 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 [## Resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
 
 [## Ссылка на резюме(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
+
+[# My DataScience projects](https://user-images.githubusercontent.com/70801558/154906602-2e7ef38e-63b5-46eb-a9f5-0406f6407359.png)
