@@ -8,7 +8,7 @@
 From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science).
 
 
-## Projects
+[## Projects](https://github.com/Denis-python/VS_code.git)
 
 *[Projects 0. Game: guess the number.](https://github.com/Denis-python/VS_code/tree/main/Project_0).
 
@@ -22,3 +22,5 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 *[Projects 5. Game: guess the number.]().
 
+[## My resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
+[## My resume link(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
