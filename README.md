@@ -1,9 +1,7 @@
 
 
 # My DataScience projects
-
-![data_science](https://user-images.githubusercontent.com/70801558/154906602-2e7ef38e-63b5-46eb-a9f5-0406f6407359.png)
-
+![data_science_1200](https://user-images.githubusercontent.com/70801558/154921540-73b75c57-69a6-49ff-982b-b27193bf038a.png)
 
 From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science).
 
@@ -25,5 +23,3 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 [## Resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
 
 [## Ссылка на резюме(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
-
-[# My DataScience projects](https://user-images.githubusercontent.com/70801558/154906602-2e7ef38e-63b5-46eb-a9f5-0406f6407359.png)

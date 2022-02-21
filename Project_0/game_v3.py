@@ -4,7 +4,7 @@ def game_v3(number):
     '''Играем в детскую игру, после каждого ответа сужаем диапазон в 2 раза'''
     count=1
     max_range=100
-    predict=max_range/2
+    predict=round(max_range/2)
     last_predict=0
 
     while number != predict: #цикл проверки условия и вычисления рамок диапазона
@@ -37,7 +37,8 @@ def score_game(game_v3) -> int:
     #     #taking main function game_v3() &  list of random numbers (random_array) having list of tries at the end of cycle
     # x = float()
 
-    count_ls=[game_v3(x) for x in random_array]
+    count_ls=[game_v3(x) for x in random_array] # проходим по списку загаданных номеров функцией random_predict, получаем список количества попыток в каждом случае
+    #     #taking main function game_v3() &  list of random numbers (random_array) having list of tries at the end 
     
     score = int(np.mean(count_ls)) # находим среднее количество попыток mean number of tries to guess
 
