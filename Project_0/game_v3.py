@@ -1,6 +1,6 @@
 import numpy as np
     
-def game_core_v3(number):
+def game_v3(number):
     '''Играем в детскую игру, после каждого ответа сужаем диапазон в 2 раза'''
     count=1
     max_range=100
@@ -18,28 +18,36 @@ def game_core_v3(number):
     
     return(count)
 
-def score_game(game_core_v3) -> int:
+def score_game(game_v3) -> int:
     """what is the mean quantity of tries computer guess the number , 1000 loops,
-
+        выясняяем среднее количество попоток до выявления загаданного числа
     Args:
-        random_predict (_type_): guessing function
+        random_predict (_type_): guessing function 
+    
 
     Returns:
-        int: mean quantity of tries
+        int: mean quantity of tries среднее число попыток до выявления числа.
     """    
     count_ls = [] # список для сохранения количества попыток list to save quantity of tries
-    np.random.seed(1) # фиксируем сид для воспроизводимости 
+    np.random.seed(2) # фиксируем сид для воспроизводимости 
     random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел list of thinking numbers
 
-    for number in random_array:
-        count_ls.append(game_core_v3(number)) # проходим по списку загаданных номеров функцией random_predict, получаем список количества попыток в каждом случае
-        
+    # for number in random_array:
+    #     count_ls.append(game_v3(number)) # проходим по списку загаданных номеров функцией random_predict, получаем список количества попыток в каждом случае
+    #     #taking main function game_v3() &  list of random numbers (random_array) having list of tries at the end of cycle
+    # x = float()
 
-    score = int(np.mean(count_ls)) # находим среднее количество попыток
+    count_ls=[game_v3(x) for x in random_array]
+    
+    score = int(np.mean(count_ls)) # находим среднее количество попыток mean number of tries to guess
 
     print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
+    print(f'''Your algorithm's mean number of tries is : {score}''')
+
+
     return(score)
 
 # RUN
 if __name__ == '__main__':
-    score_game(game_core_v3)
+    score_game(game_v3)
+
