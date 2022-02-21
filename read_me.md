@@ -2,7 +2,7 @@
 
 # My DataScience projects
 
-[data_science](https://user-images.githubusercontent.com/70801558/154905566-015628e2-5e95-4b25-8d19-f109c18ddc4a.png)
+[png](https://user-images.githubusercontent.com/70801558/154905566-015628e2-5e95-4b25-8d19-f109c18ddc4a.png)
 
 
 From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science).
