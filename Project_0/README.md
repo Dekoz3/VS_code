@@ -1,4 +1,4 @@
-README.md
+
 #[Projects 0. Game: guess the number. / Проект 0. Игра: угадай число.](https://github.com/Denis-python/VS_code/tree/main/Project_0)
 
 1. [Описание проекта. / Project description.]()
@@ -34,5 +34,6 @@ README.md
 5. [Результат. / Result.]()
 
 Результатом работы стал написанный на Python 3 алгорим подбирающий загаданное число в среднем за 5 попыток.
+Файлы залиты на Github.
 
 
