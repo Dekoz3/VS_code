@@ -20,6 +20,6 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 *[Projects 5. Not started./ Проект 5. ____________________](https://github.com/Denis-python/VS_code/tree/main/Project_5).
 
-[## Resume link(English)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
+[## Resume link(English)](https://github.com/Denis-python/VS_code/blob/master/KozarenkoDenisCV_eng.pdf)
 
 [## Ссылка на резюме(русский язык)](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=749682abff09b44d0c0039ed1f506846477376)
