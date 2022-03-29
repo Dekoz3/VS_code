@@ -1,5 +1,5 @@
 
-#[Projects 0. Game: guess the number. / Проект 0. Игра: угадай число.](https://github.com/Denis-python/VS_code/tree/main/Project_1)
+#[Projects 1. HH.ru parsing data EDA. / Проект 1. Разведывательный анализ EDA выгрузка из .ru .](https://github.com/Denis-python/VS_code/tree/master/Project_1)
 
 1. [Описание проекта. / Project description.]()
 
