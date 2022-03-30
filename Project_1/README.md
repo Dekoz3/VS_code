@@ -21,7 +21,7 @@ based on the information that he has indicated about himself.
 2. [Какую задачу решаем. / What's the purpose of the project.]()<br>
 
  данные необходимо преобразовать, исследовать и очистить <br>
- data need to be proccessed, researched and cleaned
+ data need to be processed, researched and cleaned
 
 3. [Краткая информация о данных. / Information about dataset.]()<br>
 
