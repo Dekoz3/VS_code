@@ -18,6 +18,7 @@ a list of the most suitable professionals.
 based on the information that he has indicated about himself.
 
 2. [Какую задачу решаем. / What's the purpose of the project.]()
+
  данные необходимо преобразовать, исследовать и очистить
  data need to be proccessed, researched and cleaned
 
@@ -25,10 +26,10 @@ based on the information that he has indicated about himself.
 
 4. [Этапы работы над проектом. / Project's roadmap.]()  
 
-1 базовый анализ структуры данных / basic data structure analysis
-2 преобразование данных / data processing
-3 разведывательный анализ / exploratory data analysis (EDA)
-4 очистка данных / data cleaning
+1 базовый анализ структуры данных / basic data structure analysis <br>
+2 преобразование данных / data processing<br>
+3 разведывательный анализ / exploratory data analysis (EDA)<br>
+4 очистка данных / data cleaning<br>
 
 5. [Результат. / Result.]()
 
