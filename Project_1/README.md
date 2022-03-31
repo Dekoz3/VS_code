@@ -24,7 +24,7 @@ based on the information that he has indicated about himself.
  data need to be processed, researched and cleaned
 
 3. [Краткая информация о данных. / Information about dataset.]()<br>
-
+[Ссылка на данные. / Dataset.](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 4. [Этапы работы над проектом. / Project's roadmap.]()  <br>
 
 1 базовый анализ структуры данных / basic data structure analysis <br>
@@ -32,9 +32,9 @@ based on the information that he has indicated about himself.
 3 разведывательный анализ / exploratory data analysis (EDA)<br>
 4 очистка данных / data cleaning<br>
 
-5. [Результат. / Result.]()
+5. [Ссылка на ноутбук. / Notebook link.](https://github.com/Denis-python/VS_code/blob/master/Project_1/Project%201.ipynb)
 
+6. [Ссылка на данные. / Dataset.](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
-Файлы залиты на Github.
 
 
