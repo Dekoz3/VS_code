@@ -24,7 +24,13 @@ based on the information that he has indicated about himself.
  data need to be processed, researched and cleaned
 
 ### 3. [Краткая информация о данных. / Information about dataset.]()<br>
-[Ссылка на данные. / Dataset.](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+
+данные представлены в csv формате с разделителями ";" приблизительный размер 450 Мб (zip архив 48МБ)
+dataset with csv_format with sep=';' `450Mb
+
+[Ссылка на данные.csv / Dataset.csv link](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
+[Ссылка на данные.zip / Dataset.zip link](https://drive.google.com/file/d/1DTzm_hHP3dtkvWTBXBrlfV0lt-_ltxa8/view?usp=sharing)
+ 
 ### 4. [Этапы работы над проектом. / Project's roadmap.]()  <br>
 
 1 базовый анализ структуры данных / basic data structure analysis <br>
