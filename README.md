@@ -8,9 +8,9 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 [## Projects](https://github.com/Denis-python/VS_code.git)
 
-*[Projects 0. Game: guess the number. / Проект 0. Игра: угадай число.](https://github.com/Denis-python/VS_code/tree/main/Project_0).
+*[Projects 0. Game: guess the number. / Проект 0. Игра: угадай число.](https://github.com/Denis-python/VS_code/tree/master/Project_0).
 
-*[Projects 1. HH data analysis (in process)./ Проект 1. Анализ данных HH (в процессе)](https://github.com/Denis-python/VS_code/tree/main/Project_1).
+*[Projects 1. HH data analysis./ Проект 1. Анализ данных HH (в процессе)](https://github.com/Denis-python/VS_code/tree/main/Project_1).
 
 *[Projects 2. Not started./ Проект 2. ____________________](https://github.com/Denis-python/VS_code/tree/main/Project_2).
 
