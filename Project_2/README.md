@@ -15,10 +15,10 @@ You work in some employment data center where data from various employment platf
 ![image](https://user-images.githubusercontent.com/70801558/163107787-a8b156a4-f58c-4885-9c4e-a1432c5c9a7e.png)
 
 4. [Этапы работы над проектом. / Project's roadmap.]()  
-знакомство с датасетом;/ dataset lookthrough
-предварительный анализ данных;/ preliminary data analisys
-анализ кандидатов;/candidats' analisys
-глобальный анализ показателей./ overal KPI analisys
+знакомство с датасетом;/ dataset lookthrough <br>
+предварительный анализ данных;/ preliminary data analisys<br>
+анализ кандидатов;/candidats' analisys<br>
+глобальный анализ показателей./ overal KPI analisys<br>
 
 5. [Результат. / Result.](https://github.com/Denis-python/VS_code/blob/master/Project_2/SQL%20Project%202%20%D0%9A%D0%BE%D0%B7%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81.pdf)
 
