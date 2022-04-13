@@ -22,7 +22,7 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 *[Projects 6.  Boosting using clustering/PCA at the initial stage. Not started./ Проект 6.Бустинг с использованием кластеризации/PCA на начальном этапе](https://github.com/Denis-python/VS_code/tree/main/Project_6).
 
-*[Projects 7. Time series/reference systems.Not started./ Проект 7.Временные ряды/рекомендательные системы](https://github.com/Denis-python/VS_code/tree/main/Project_7).
+*[Projects 7. Time series/reference systems.Not started./ Проект 7.Временные ряды/рекомендательные системы](https://github.com/Denis-python/VS_code/tree/master/Project_7).
 
 [## Resume link(English)](https://github.com/Denis-python/VS_code/blob/master/KozarenkoDenisCV_eng.pdf)
 
