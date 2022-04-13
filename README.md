@@ -20,7 +20,7 @@ From the [SkiilFactory Data Science course](https://skillfactory.ru/data-science
 
 *[Projects 5. Regression problem.Not started./ Проект 5.Задача регрессии](https://github.com/Denis-python/VS_code/tree/main/Project_5).
 
-*[Projects 6.  Boosting using clustering/PCA at the initial stage. Not started./ Проект 6.Бустинг с использованием кластеризации/PCA на начальном этапе](https://github.com/Denis-python/VS_code/tree/main/Project_6).
+*[Projects 6.  Boosting using clustering/PCA at the initial stage. Not started./ Проект 6.Бустинг с использованием кластеризации/PCA на начальном этапе](https://github.com/Denis-python/VS_code/tree/master/Project_6).
 
 *[Projects 7. Time series/reference systems.Not started./ Проект 7.Временные ряды/рекомендательные системы](https://github.com/Denis-python/VS_code/tree/master/Project_7).
 
