@@ -68,6 +68,8 @@ flask-ngrok==0.0.25
 fonttools==4.33.3
 future==0.18.2
 geocoder==1.38.1
+geographiclib==1.52
+geopy==2.2.0
 git-filter-repo==2.34.0
 graphviz==0.20
 greenlet==1.1.2
@@ -188,6 +190,7 @@ seaborn==0.11.2
 semantic-version==2.10.0
 Send2Trash==1.8.0
 setuptools-scm==6.4.2
+simplejson==3.17.6
 six==1.16.0
 sniffio==1.2.0
 snowballstemmer==2.2.0
@@ -215,6 +218,7 @@ tangled-up-in-unicode==0.2.0
 tenacity==8.0.1
 terminado==0.15.0
 testpath==0.6.0
+textblob==0.17.1
 threadpoolctl==3.1.0
 timeout-decorator==0.5.0
 tinycss2==1.1.1
